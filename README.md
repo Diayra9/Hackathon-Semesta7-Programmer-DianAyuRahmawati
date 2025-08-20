@@ -5,4 +5,4 @@ Fitur utama termasuk CRUD (Create, Read, Update, Delete) data resident dengan up
 
 ---
 
-Mohon maaf saya bahkan tidak berhasil menyelesaikan 1/4 nya :(
+Mohon maaf saya tidak berhasil menyelesaikannya :(
