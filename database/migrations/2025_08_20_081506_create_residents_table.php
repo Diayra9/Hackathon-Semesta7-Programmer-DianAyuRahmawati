@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('residents', function (Blueprint $table) {
             $table->id('id_resident');
             $table->string('name', 255);
-            $table->text('photo');
+            $table->text('image');
             $table->foreignId('id_unit');;
             $table->timestamps();
         });
